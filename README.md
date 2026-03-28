@@ -9,6 +9,7 @@ Courtesey of Dr. Hesham Omran, Ain Shams University, Faculty of Engineering, Cai
 
 ## CONTENTS
 
+# [[1]] Analog Integrated Circuits I/II Course (By Dr. Hesham Omran, Ain-Shams University)
 Lab 01 (Part 1): Basic simulations of RC circuit
 Transient simulation, AC simulation, pole-zero simulation, parametric sweeps, calculator and expressions 
 Lab 01 (Part 2): MOSFET long channel and short channel characteristics
@@ -44,3 +45,9 @@ AC noise simulation, transient noise simulation, noise in five-transistor OTA
 Lab 11 (Mini Project 02): Fully differential folded cascode OTA 
 Design of folded cascode OTA with capacitive feedback, behavioral and actual CMFB network
 
+
+# [[2]] Phase-Locked Loops Course -ECE633- (By Prof. Dr. Dessouky, Prof. Dr. Nozahi, and Dr. Omran, Ain-Shams University)
+Project 01: PLL Design and Verilog-A Behavioral Modeling
+This is the same final prohject of "Analog/Mixed-Signal Simulation and Modeling Course" of SIEMENS EDA, Egypt. (Courtesey of Dr. Omran)
+It is a project to practice: behavioral modeling using Verilog-A and top-down design methodology for a complex mixed-signal system (PLL).  
+Also Design a divide-by-8 circuit on a transistor-level, simulate, and compare the results.
