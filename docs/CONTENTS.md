@@ -7,21 +7,22 @@ These projects and labs were solved as a self-learning procedure using industry-
 ------------------------------------------------------------------------------------------------------
 # Projects Summary
 
-| My Projects  | Link   | Projects Count |
+| Course  | Link   | Projects Count |
 |---------|--------|--------|
 | | | |
-| Analog IC Design I/II | [Analog IC Design I/II Projects](##-[-1-]-Analog-Integrated-Circuits-I/II-Course (By Dr. Hesham Omran, Ain-Shams University)) | 11 |
+| Analog IC Design I/II | [Analog IC Design I/II Projects](##-[-1-]-Analog-Integrated-Circuits-I/II-Course) | 11 |
 | | | |
-| PLL | [PLL Projects](##-[-2-]-Phase-Locked-Loops-Course-ECE633 (By Prof. Dr. Dessouky, Prof. Dr. Nozahi, and Dr. Omran, Ain-Shams University))  | 2 |
+| PLL | [PLL Projects](##-[-2-]-Phase-Locked-Loops-Course-ECE633)  | 2 |
 | | | |
-| Advanced Digital IC | [Advanced Digital IC Project](##-[-3-]-Advanced-Digital-Integrated-Circuits-Course-ECE623 (By Prof. Dr. Sameh A. Ibrahim, Ain-Shams University)) | 1 |
+| Advanced Digital IC | [Advanced Digital IC Project](##-[-3-]-Advanced-Digital-Integrated-Circuits-Course-ECE623) | 1 |
 | | | |
 
 
 ------------------------------------------------------------------------------------------------------
 # Projects Details
 
-## [ 1 ] Analog Integrated Circuits I/II Course (By Dr. Hesham Omran, Ain-Shams University)
+## [ 1 ] Analog Integrated Circuits I/II Course
+`(By Dr. Hesham Omran, Ain-Shams University)`
 `These are the reports and solutions of **Analog CMOS IC Design** course labs and projects.`
 `Labs available on Master-Micro.com.`
 `Courtesey of Dr. Hesham Omran, Ain Shams University, Faculty of Engineering, Cairo, Egypt.`
@@ -44,7 +45,8 @@ These projects and labs were solved as a self-learning procedure using industry-
 | **Lab 11:** | [Fully differential folded cascode OTA](docs/setup.md) | 2025 | Design of folded cascode OTA with capacitive feedback, behavioral and actual CMFB network |
 
 
-## [ 2 ] Phase-Locked Loops Course ECE633 (By Prof. Dr. Dessouky, Prof. Dr. Nozahi, and Dr. Omran, Ain-Shams University)
+## [ 2 ] Phase-Locked Loops Course ECE633
+`(By Prof. Dr. Dessouky, Prof. Dr. Nozahi, and Dr. Omran, Ain-Shams University)`
 `These are the reports and solutions of **ECE 633** course labs and projects.`
 
 | No.    | Project | Date | Description |
@@ -55,7 +57,8 @@ These projects and labs were solved as a self-learning procedure using industry-
 
 
 
-## [ 3 ] Advanced Digital Integrated Circuits Course ECE623 (By Prof. Dr. Sameh A. Ibrahim, Ain-Shams University)
+## [ 3 ] Advanced Digital Integrated Circuits Course ECE623
+`(By Prof. Dr. Sameh A. Ibrahim, Ain-Shams University)`
 `These are the reports and solutions of **ECE 623** course labs and projects.`
 
 | No.    | Project | Date | Description |
