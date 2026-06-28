@@ -48,7 +48,7 @@ MY JOURNEY TO BE AN ANALOG IC ENGINEER
 |-------:|--------|:------:|--------|
 | | | | |
 | | | |
-| Final Project | [4GHz High-speed Adder](setup.md) | May 2026 | `SOON` |
+| Final Project | [4GHz High-speed Adder](../ADIC-adder.pdf) | May 2026 | `SOON` |
 | | | | |
 
 ------------------------------------------------------------------------------------------------------
