@@ -48,7 +48,7 @@ MY JOURNEY TO BE AN ANALOG IC ENGINEER
 |-------:|--------|:------:|--------|
 | | | | |
 | | | |
-| Final Project | [4GHz High-speed Adder](../ADIC-adder.pdf) | May 2026 | `SOON` |
+| Final Project | [4GHz High-speed Adder](../ADIC-adder.pdf) | May 2026 | A 4GHz 128-bit Kogge-Stone adder using 65nm technology. This is the final project of ECE 623 course in spring 26 post-graduate "advanced digital integrated circuits design" course.|
 | | | | |
 
 ------------------------------------------------------------------------------------------------------
