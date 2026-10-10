@@ -36,7 +36,7 @@ MY JOURNEY TO BE AN ANALOG IC ENGINEER
 |-------:|--------|:------:|--------|
 | | | | |
 | | | | |
-| **Project 01:** | [PLL Design and Verilog-A Behavioral Modeling](../PLL-sim-modeling.pdf) | Mar 2026 | A project to practice: *behavioral modeling using Verilog-A* and *top-down design methodology for a complex mixed-signal system (PLL)*. Also *Design a divide-by-8 circuit on a transistor-level, simulate, and compare the results*. This is the same final project of **"Analog/Mixed-Signal Simulation and Modeling Course"** of SIEMENS EDA, Egypt. (Courtesey of Dr. Omran) |
+| **Project 01:** | [PLL Design and Verilog-A Behavioral Modeling](https://drive.google.com/file/d/1Mr3uNj2lF549ioaXwbm3EEKIFeX8e_z9/view?usp=sharing) | Mar 2026 | A project to practice: *behavioral modeling using Verilog-A* and *top-down design methodology for a complex mixed-signal system (PLL)*. Also *Design a divide-by-8 circuit on a transistor-level, simulate, and compare the results*. This is the same final project of **"Analog/Mixed-Signal Simulation and Modeling Course"** of SIEMENS EDA, Egypt. (Courtesey of Dr. Omran) |
 
 
 
