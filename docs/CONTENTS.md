@@ -51,5 +51,17 @@ MY JOURNEY TO BE AN ANALOG IC ENGINEER
 | Final Project | <a href="https://drive.google.com/file/d/12_Cxx-RXsTq1Syyk4Qg0J56hlucleAXQ/view?usp=sharing" target="_blank">4GHz High-speed Adder</a> | May 2026 | A 4GHz 128-bit Kogge-Stone adder using 65nm technology. This is the final project of ECE 623 course in spring 26 post-graduate "advanced digital integrated circuits design" course.|
 | | | | |
 
+
+
+## [ 4 ] High Speed Serial Links Course ECE629
+`(By Prof. Dr. Sameh A. Ibrahim, Ain-Shams University)`
+`These are the reports and solutions of **ECE 629** course labs and projects.`
+
+| No.    | Project | Date | Description |
+|-------:|--------|:------:|--------|
+| | | | |
+| | | |
+| Final Project | <a href="" target="_blank"> TBA </a> | Dec 2026 | TBA|
+| | | | |
 ------------------------------------------------------------------------------------------------------
 ## EOF
